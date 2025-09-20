@@ -78,4 +78,4 @@ A simple sequential deep learning model:
 
 ## License
 
-This project is open-source and available under the MIT License. Tested and Approved
+This project is open-source and available under the MIT License.
